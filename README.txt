@@ -18,6 +18,8 @@ At the same time of the assignment, a new season of a show I like called The Owl
 I made a culdesac with a bunch of houses along the road. I made the scene nighttime and added streetlights, pumpkins, and jack-0-lanterns for the Halloween ambiance.
 I surrounded the culdesac in trees and had a lake scene based on a scene from The Owl House hidden in the forest along a dirt path.
 
+To open the completed assignment, download all the files in the Unity Project folder and put them into the projects folder in your Unity folder.
+
 Demo Video Link: https://youtu.be/eznDrqpWmco
 
 Links to Textures/Assets/References I had used that were not mine in this project:
